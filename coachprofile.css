@@ -24,6 +24,7 @@ header {
 header h1 {
     margin: 0;
     font-size: 2em;
+    color: red;
 }
 
 /* main content styles */
